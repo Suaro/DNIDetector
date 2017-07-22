@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bayes/.idea/Bayes.iml" filepath="$PROJECT_DIR$/../Bayes/.idea/Bayes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DetectDNI.iml" filepath="$PROJECT_DIR$/.idea/DetectDNI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practica1/.idea/Practica1.iml" filepath="$PROJECT_DIR$/../Practica1/.idea/Practica1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practica2/.idea/Practica2.iml" filepath="$PROJECT_DIR$/../Practica2/.idea/Practica2.iml" />
+    </modules>
+  </component>
+</project>
